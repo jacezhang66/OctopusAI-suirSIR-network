@@ -1,6 +1,6 @@
 # Sinking into water without seeing water: semi-supervised underwater image enhancement based on simulated re-degradation process
 
-![fishV]([G:\dataess\Water-Video\result\fishV.gif](https://github.com/jacezhang66/OctopusAI-suirSIR-network/blob/main/fig1/fishV.gif))
+![fishV](https://github.com/jacezhang66/OctopusAI-suirSIR-network/blob/main/fig1/fishV.gif)
 
 ## Introduction
 The abstract and detailed paper will be accessible subsequent to the manuscript's acceptance.

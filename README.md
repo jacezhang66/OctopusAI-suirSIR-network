@@ -5,7 +5,7 @@
 ## Introduction
 The abstract and detailed paper will be accessible subsequent to the manuscript's acceptance.
 
-![structfig](C:\Users\LENOVO\Desktop\structfig.jpg)
+![structfig](https://github.com/jacezhang66/OctopusAI-suirSIR-network/blob/main/fig1/structfig.jpg)
 
 <p align="center">Figure 1. An overview of our approach.</p>
 
@@ -69,11 +69,11 @@ Trained_models are available at baidudrive: https://pan.baidu.com/s/1vDB4NM7Ygpv
 
 ## Samples
 
-![fish2V](G:\dataess\Water-Video\result\fish2V.gif)
+![fish2V](https://github.com/jacezhang66/OctopusAI-suirSIR-network/blob/main/fig2/fish3V.gif)
 
 <p align="center">Figure 2. An overview of our samples1.</p>
 
-![resultfig](C:\Users\LENOVO\Desktop\resultfig.jpg)
+![resultfig](https://github.com/jacezhang66/OctopusAI-suirSIR-network/blob/main/fig1/resultfig.jpg)
 
 <p align="center">Figure 3. An overview of our samples2.</p>
 

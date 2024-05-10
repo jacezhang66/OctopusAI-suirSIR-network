@@ -1,0 +1,13 @@
+data
+├── labled1
+│   ├── input
+│   └── GT
+│   └── T
+├── unlabeled
+│   ├── input
+│   └── candidate
+└── val
+    ├── input
+    └── GT
+└── test
+    ├── input

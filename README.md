@@ -27,8 +27,8 @@ Then, place the datasets in the `data` folder.
 Finally, the structure of  `data`  are aligned as follows: 
 
 <details>
-<summary> FILE STRUCTURE </summary>
 
+FILE STRUCTURE
 ```
 data
 ├── labled1

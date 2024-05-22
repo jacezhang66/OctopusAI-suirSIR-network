@@ -1,7 +1,7 @@
 # Sinking into water without seeing water: semi-supervised underwater image enhancement based on simulated re-degradation process
 ## Ruihang Zhang, Sen Lin, Yupeng Li
 ![fishV](https://github.com/jacezhang66/OctopusAI-suirSIR-network/blob/main/fig1/fishV.gif)
-<p align="center">Video 1. Enhanced video sample1.</p>(Please wait a few seconds to load the video)
+<p align="center">Video 1. Enhanced video sample1(Please wait a few seconds to load the video).</p>
 
 ## Introduction
 The abstract and detailed paper will be accessible subsequent to the manuscript's acceptance.
